@@ -1,0 +1,43 @@
+h1 {
+  color:  black;
+}
+h2{
+  color:#ede1e3;
+}
+h4 {
+  color:  grey;
+}
+h5 {
+  color: grey;
+}
+h3 {
+  color:black;
+}
+p.a{
+  color: #D3D3D3;
+}
+p{
+  color: grey;
+}
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+} 
+
+div.d {
+  text-align: justify;
+} 
+
+div.card {
+  width: 65%;
+  margin: 0 auto;
+  border: 2px solid #A9A9A9;
+}
+
